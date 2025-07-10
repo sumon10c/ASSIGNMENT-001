@@ -1,0 +1,67 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-image: url("B12A01-landing-launchpad/Assets/Hero-bg.png");
+    height: 500px;
+    width: 1440px;
+    
+}
+/* Button */
+.btn{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    height: 40px;
+    /* width: 200px; */
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 17px;
+    padding: 10px;
+
+}
+
+/* Navbar */
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 800px;
+   
+}
+
+.banner-heading{
+    text-align: center;
+    margin-top: 200px;
+}
+.logo{
+    color: #4E47FF;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/* Action section */
+.action{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+    width: 1440px;
+    margin-top: 100px;
+    
+}
+.act-inf{
+    margin-left: 30px;
+}
+.act-img{
+    margin-right: 30px;
+}
+.act-inf p{
+    color: #626268;
+}
+.act-img img{
+    border: none;
+    border-radius: 50px;
+}
