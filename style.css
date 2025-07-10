@@ -58,10 +58,46 @@ nav{
 .act-img{
     margin-right: 30px;
 }
+.act-inf h1{
+    font-size: 50px;
+    font-weight: bold;
+}
 .act-inf p{
     color: #626268;
 }
 .act-img img{
     border: none;
     border-radius: 50px;
+}
+
+/* User Section */
+.user-section{
+    background-color: #dddde4;
+    width: 1140px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.use-p{
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.user-title{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.active h1{
+    color: #4E47FF;
+    font-size: 50px;
+    font-weight: 800;
+    
+}
+.active p{
+    color: #626268;
+    margin-bottom: 0px;
 }
