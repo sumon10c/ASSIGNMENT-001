@@ -203,6 +203,7 @@ footer input[type="email"], footer input[type="name"], footer textarea, footer b
 /* Last part footer */
 .last-part{
     text-align: center;
+    margin-bottom: 30px;
 }
 
 ul{
